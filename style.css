@@ -1,0 +1,26 @@
+.ac ul{
+  margin:0;
+  padding:0;
+}
+.ac ul>li{
+  list-style:none;
+  margin:0;
+  border-bottom:1px solid #ccc;
+}
+.user {
+    border-radius: 50px;
+    background-color: #ccc;
+    width: 70px;
+    height: 70px;
+    float: left;
+    margin: 10px;
+}
+.userName {
+  margin-top:20px;
+}
+.ac ul>li.selected{
+  background-color:#eee;
+}
+.container{
+  margin-top: 150px;
+}
